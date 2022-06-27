@@ -3,7 +3,7 @@
 Welcome to my Github, I'm **Gonca**, a Portuguese developer, I'm learning JavaScript, Node.js, HTML, CSS and LUA.
 By the way, I'm mainly "specialized" in discord bots and making Fivem Servers.
 
-Below more information !
+Below more information!
 
 ## 📡 Contact me :  
 
