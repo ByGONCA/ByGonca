@@ -1,8 +1,6 @@
 ## 👋・Hi i'm Gonca  
 
 Welcome to my Github, I'm **Gonca**, a Portuguese developer, I'm learning JavaScript, Node.js, HTML, CSS and LUA.
-
-More to the sides of the Fivem ESX study to create foundations
 By the way, I'm mainly "specialized" in discord bots and making Fivem Servers.
 
 Below more information !
