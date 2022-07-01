@@ -9,7 +9,7 @@ Below more information!
 
 * Discord - #!GONCA#5347
 * Server - **[Orleans Development](https://discord.gg/hWYqG5fhnJ)**
-* Roleplay Server - **[Nação Portuguesa RP](https://discord.gg/tAVatAD3GM)**
+* Roleplay Server - **[Exotic RP](https://discord.gg/2YEVahKPjB)**
 
 ## 📚 Learning this Languages and Tools :
 
