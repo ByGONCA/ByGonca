@@ -7,9 +7,7 @@ Below more information!
 
 ## 📡 Contact me :  
 
-* Discord - #!GONCA#5347
-* Server - **[Orleans Development](https://discord.gg/hWYqG5fhnJ)**
-* Roleplay Server - **[Exotic RP](https://discord.gg/2YEVahKPjB)**
+* Discord - #!GONCA#1589
 
 ## 📚 Learning this Languages and Tools :
 
