@@ -14,6 +14,7 @@ Below more information!
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
    
 <br><details>
