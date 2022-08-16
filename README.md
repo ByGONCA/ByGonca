@@ -15,9 +15,6 @@ Below more information!
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.png"></code>
-<code><img height="25" src="https://media.discordapp.net/attachments/740294891296260137/991016356721877022/language-lua.png"></code>
    
 <br><details>
   <summary><b>My github statistics</b></summary>
