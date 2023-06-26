@@ -1,5 +1,5 @@
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+\n+Welcome+to+my+profile.)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+,+Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 
 <a href="https://discord.com/users/556942887250821142">
@@ -28,7 +28,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+\n
 
 </div>
 
-<hr>
-
     [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Programming.)](https://git.io/typing-svg)
+
+<hr>
