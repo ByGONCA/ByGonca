@@ -1,24 +1,36 @@
-## 👋・Hi i'm Gonca  
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+\n+Welcome+to+my+profile.)](https://git.io/typing-svg)
 
-Welcome to my Github, I'm **Gonca**, a Portuguese developer, I'm learning JavaScript and HTML.
-By the way, I'm mainly "specialized" in discord bots.
 
-Below more information!
+<a href="https://discord.com/users/556942887250821142">
+<img src="https://lanyard.cnrad.dev/api/556942887250821142" alt="Discord"/>
+</div>
 
-## 📡 Contact me :  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByGONCA&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
+</div>
 
-* Discord - #!GONCA#1589
+<div style="display: inline_block" align="center">
+    <img align="center" alt="Typescript" height="35" width="35"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="Javascript" height="35" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Node.js" height="35" width="35"
+        src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+</div>
 
-## 📚 Learning this Languages and Tools :
+<br>
 
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png"></code>
-   
-<br><details>
-  <summary><b>My github statistics</b></summary>
-  
-  [<img style="margin-top: 5px" src="https://github-readme-stats.vercel.app/api?username=ByGonca&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=ByGONCA&hide=contribs&show_icons=true&theme=dark)
-</details>
+<div align="center">
+    [<img src="https://komarev.com/ghpvc/?username=ByGONCA&color=green" alt="Profile views" />]
+    [<img style="margin-top: 5px" src="https://github-readme-stats.vercel.app/api?username=ByGonca&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=ByGONCA&hide=contribs&show_icons=true&theme=dark)
+</div>
+
+</div>
+
+<hr>
+
+<h3 align='center'>
+    [![Typing
+SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Programming.)](https://git.io/typing-svg)
+</h3>
