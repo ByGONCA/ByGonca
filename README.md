@@ -22,7 +22,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+\n
 <br>
 
 <div align="center">
-    [<img src="https://komarev.com/ghpvc/?username=ByGONCA&color=green" alt="Profile views" />]
+    <img src="https://komarev.com/ghpvc/?username=ByGONCA&color=green" alt="Profile views" />
     [<img style="margin-top: 5px" src="https://github-readme-stats.vercel.app/api?username=ByGonca&hide=contribs&show_icons=true&theme=dark">](https://github-readme-stats.vercel.app/api?username=ByGONCA&hide=contribs&show_icons=true&theme=dark)
 </div>
 
@@ -30,7 +30,5 @@ SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+\n
 
 <hr>
 
-<h3 align='center'>
     [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Programming.)](https://git.io/typing-svg)
-</h3>
