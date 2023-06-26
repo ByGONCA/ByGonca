@@ -1,11 +1,6 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+,+Welcome+to+my+profile.)](https://git.io/typing-svg)
 
-
-<a href="https://discord.com/users/556942887250821142">
-<img src="https://lanyard.cnrad.dev/api/556942887250821142" alt="Discord"/>
-</div>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ByGONCA&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
 </div>
@@ -28,5 +23,3 @@ SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Hey+I'm+gonca+,+
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=42AFD5&lines=Programming.)](https://git.io/typing-svg)
-
-
