@@ -14,6 +14,9 @@
 
 </p>
 </hr>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&duration=7000&pause=1000&center=true&width=435&lines=Github+Statistics)](https://git.io/typing-svg)
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ByGONCA&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham">
     <br>
