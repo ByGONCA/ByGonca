@@ -10,7 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&duration=7000&pause=1000&width=435&lines=Learning;Skills+%26+Tools)](https://git.io/typing-svg)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,lua,react,html,css,tailwind,mysql,mongodb,vscode,nodejs,git,github,discord&theme=dark">
+    <img src="https://skillicons.dev/icons?i=tailwind,mysql,mongodb,vscode,nodejs,git,github,discord&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js,ts,lua,react,html,css&theme=dark">
 
 </p>
 </hr>
