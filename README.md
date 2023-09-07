@@ -11,8 +11,9 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=tailwind,mysql,mongodb,vscode,nodejs,git,github,discord&theme=dark">
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,lua,react,html,css&theme=dark">
-
 </p>
 </hr>
 
